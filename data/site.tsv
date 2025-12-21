@@ -1,0 +1,13 @@
+#key	value
+name	AmadeusWeb Smithy
+byline	[todo: byline]
+safeName	amadeuswebsmithy
+iconName	AW Smithy
+welcome-message	2011, the year I cemented my future in php with [biblios](%urlOf-imran%works/BTNOUTLINESUCCESS), writing [MicroVC in 2012](https://github.com/amadeus-web-imran/MicroVCBTNOUTLINEDANGER) and beginning [AW Spring in 2019](%urlOf-spring%BTNOUTLINEINFO).
+footer-message	[todo: footer]
+siteMenuName	Smithy Home
+sections	use-me
+sections_todo	knowledge-base
+local-url	http://localhost/dawn/smithy/
+live-url	https://smithy.amadeusweb.world/
+year	2011
