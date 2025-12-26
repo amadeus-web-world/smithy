@@ -49,15 +49,3 @@ DIV-LARGELIST
 1. Click the button 'Enter Core v8 Site` - you should see the documentation.
 
 DIV-CLOSE
-
----
-
-## Installation on Mobile (Android)
-
-DIV-LARGELIST
-
-1. Git Client - [PocketGit](https://drive.google.com/file/d/1L2yCUxSk-M3Lpy0KLyp72ZKrDJMdEJJ2/view?usp=drive_link). Dawn > Admin > [Git Manager](http://localhost/dawn/admin/git-manager/) is still only a hope for linux / mobile, but repos are listed.
-2. AWebServer - [install](https://play.google.com/store/apps/details?id=com.sylkat.apache) - no url rewriting, but this is taken care of. [Document Root](https://builder.amadeusweb.com/assets/docs/mobile-web-server.jpg) MUST be /sdcard/Magique. Port can be 80 or 8080 - its fine.
-3. Theme assets automatically loaded from hosting, not needed to extract zip on phone.
-
-DIV-CLOSE

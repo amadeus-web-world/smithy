@@ -1,9 +1,9 @@
 #key	value
 name	AmadeusWeb Smithy
-byline	[todo: byline]
+byline	Forging and Internet of Missions
 safeName	amadeuswebsmithy
 iconName	AW Smithy
-welcome-message	2011, the year I cemented my future in php with [biblios](%urlOf-imran%works/BTNOUTLINESUCCESS), writing [MicroVC in 2012](https://github.com/amadeus-web-imran/MicroVCBTNOUTLINEDANGER) and beginning [AW Spring in 2019](%urlOf-spring%BTNOUTLINEINFO).
+welcome-message	2011, the year I cemented my future in php with [biblios](%urlOf-imran%works/BTNOUTLINESUCCESS), writing [MicroVC in 2012](https://github.com/amadeus-web-imran/MicroVCBTNOUTLINEDANGER) and beginning [AW Spring in 2019](%urlOf-spring%BTNOUTLINEINFO).<br /><br /><img class="img-fluid img-max-600 mt-3 m-auto d-block" src="%url%%safeName%-mood.jpg" />
 footer-message	[todo: footer]
 siteMenuName	Smithy Home
 sections	use-me
