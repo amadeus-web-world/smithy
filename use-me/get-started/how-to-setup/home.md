@@ -14,7 +14,7 @@ First, ask for, read and agree to the
 
 DIV-LARGELIST
 
-1. Create Folder: `D:\AmadeusWeb\` and download these installer files to ./Setups
+1. Create Folder: `D:\JoyfulEarth\` and download these installer files to ./Setups
 1. Install [Git](https://git-scm.com/download/win), [TortoiseGit](https://tortoisegit.org/download/), [Apache](https://www.apachefriends.org/) <sup>1</sup> and [VSCode](https://code.visualstudio.com/download).
 1. Additionally, [BeyComp](https://www.scootersoftware.com/download.php) or [PSPad](https://pspad.com/en/) may come in handy.
 1. For uploading (delta only) to FTP, I've been [using this](%url%utilities/#ftp-uploader) which I wrote in 2007.
@@ -27,11 +27,11 @@ DIV-CLOSE
 
 DIV-LARGELIST
 
-1. Install Xampp (Windows + Apache + PHP) to `D:\AmadeusWeb\xampp` - MySql not needed for AmadeusWeb at all.
+1. Install Xampp (Windows + Apache + PHP) to `D:\JoyfulEarth\xampp` - MySql not needed for JoyfulEarth at all.
 1. Run "xampp-control.exe" as admin and change the httpd.conf file
-1. Change the DocumentRoot from `D:\AmadeusWeb\xampp\htdocs` to `D:\AmadeusWeb\alliances`
+1. Change the DocumentRoot from `D:\JoyfulEarth\xampp\htdocs` to `D:\JoyfulEarth\www\public_html`
 1. Tick the checkbox to allow Apache to be installed as a service. Also click run (row should hae a green lael saying running on port 80).
-1. Visit [localhost](http://localhost/dawn/spring/) in the browser - it should show the amadeus9 site content but broken (see #3 - theme assets setup below).
+1. Visit [localhost](http://localhost/spring/) in the browser - it should show the amadeus9 site content but broken (see #3 - theme assets setup below).
 
 DIV-CLOSE
 
@@ -43,7 +43,7 @@ DIV-CLOSE
 
 DIV-LARGELIST
 
-1. Navigate to `D:\AmadeusWeb\alliances\dawn\spring\themes\canvas\`
+1. Navigate to `D:\JoyfulEarth\www\public_html\spring\themes\canvas\`
 1. Run `install-theme.bat` - do this everytime the theme assets are changed, renaming the old assets folder (in case it has pending changes etc).
 1. Visit localhost again, it should be working (network tab shows all assets loaded).
 1. Click the button 'Enter Core v8 Site` - you should see the documentation.
