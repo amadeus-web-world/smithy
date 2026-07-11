@@ -1,0 +1,11 @@
+#key	value
+name	JoyfulEarth
+byline	[byline]
+safeName	joyfulearth
+iconName	JE Home
+footer-message	[footer message]
+siteMenuName	JE Home
+sections	
+local-url	http://localhost/joyfulearth/
+live-url	https://joyfulearth.org/
+year	2019

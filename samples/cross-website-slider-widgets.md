@@ -1,0 +1,1 @@
+<iframe src="http://localhost/friends/vidyantara/relief-foundation/?slider=1" style="width: 100%; height: 100vh;"></iframe>
